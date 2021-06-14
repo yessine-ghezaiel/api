@@ -1,0 +1,16 @@
+
+body{
+  background-image: url('./back.jpg');
+}
+.App {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size:30px;
+ 
+}
+ul li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+
